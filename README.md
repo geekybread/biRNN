@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # dvc-project-template
 DVC project template
 
@@ -18,3 +19,6 @@ dvc init
 ```
 
 ### STEP 06- commit and push the changes to the remote repository
+=======
+# biRNN
+>>>>>>> e0c96445a03f6ff3bacf2c0467c33cfc5c10f886
